@@ -11,7 +11,8 @@ const page = () => {
       <Hero />
       <CarCards />
       <NamePlateCards />
-      {/* <Testimonials /> */}
+      <Testimonials />
+
       <Footer />
     </div>
   );
